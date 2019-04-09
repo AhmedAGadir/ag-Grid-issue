@@ -55,6 +55,7 @@ export default class MyApp extends Component {
                     "pinned": "left"
                 }, {
                     "field": "val27",
+                    "colId": "val27",
                     "headerName": "Header 1",
                     "suppressSizeToFit": true,
                     "width": 260,
@@ -803,6 +804,7 @@ export default class MyApp extends Component {
                 "pinned": null
             }, {
                 "field": "val27",
+                "colId": "val27",
                 "headerName": "Header 1",
                 "suppressSizeToFit": true,
                 "width": 260,
